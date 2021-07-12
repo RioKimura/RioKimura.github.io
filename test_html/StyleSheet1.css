@@ -1,0 +1,110 @@
+﻿body{
+    columns:2;
+}
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+.spring a{
+    display:block;
+    width:50%;
+    padding:3% ;
+    background-color: antiquewhite;
+    border: hidden;
+    margin: 100px;
+    height: 200px;
+    break-inside:avoid;
+    
+  
+}
+
+.spring a:hover {
+     transform: scale(1.3, 1.3);
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.tsuyu {
+    display: block;
+    width: 50%;
+    padding: 3%;
+    background-color: cadetblue;
+    border: hidden;
+    margin: 100px;
+    height: 290px;
+    break-inside: avoid;
+}
+
+.tsuyu a:hover{
+    transform: scale(1.3, 1.3);
+}
+
+h4 {
+    font-size: 20px;
+    text-align:center;
+}
+
+.summer {
+    display: block;
+    width: 50%;
+    padding: 3%;
+    background-color: chartreuse;
+    border: hidden;
+    margin: 100px;
+    height: 210px;
+    break-inside: avoid;
+}
+
+.summer a:hover {
+    transform: scale(1.3, 1.3);
+}
+
+h5 {
+    font-size: 20px;
+   text-align:center;
+}
+
+.autumn {
+    display: block;
+    width: 50%;
+    padding: 3%;
+    background-color: darkgoldenrod;
+    border: hidden;
+    margin: 100px;
+    height: 200px;
+    break-inside: avoid;
+}
+
+.autumn a:hover {
+    transform: scale(1.3, 1.3);
+}
+
+h6 {
+    font-size: 20px;
+    text-align:center;
+}
+
+.winter {
+    display: block;
+    width: 50%;
+    padding: 3%;
+    background-color: thistle;
+    border: hidden;
+    break-inside: avoid;
+    margin: 100px;
+    height: 200px;
+}
+
+.winter a:hover {
+    transform: scale(1.3, 1.3);
+}
+
+
+
+
